@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/-CASEYRHODES TECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/caseyweb"><img title="Author" src="https://img.shields.io/badge/-CASEYRHODES TECH-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 <p align="center">
 <a href="https://github.com/caseyweb/CASEYRHODES_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/CASEYRHODES_MD?color=white&style=flat-square"></a>
