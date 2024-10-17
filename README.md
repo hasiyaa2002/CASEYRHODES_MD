@@ -1,34 +1,34 @@
-#        Ҝ乇尺爪 爪ᗪ ᐯ2
+#        𝗖𝗔𝗦𝗘𝗬𝗥𝗛𝗢𝗗𝗘𝗦 𝗠𝗗
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS" alt="Typing SVG" /></a>   
             
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
+<up A simple WhatsApp User Bot Coded By CASEYRHODES and CHARITY</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/6368ad7db15fce6a4dfdb.jpg"/>       
+<img src="https://i.imgur.com/5ZtBieN.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYRHODES+AND+CHARITY;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CASEYRHODES TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/-CASEYRHODES TECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V2?color=white&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM_MD-V2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM_MD-V2?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/CASEYRHODES_MD?color=white&style=flat-square"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/CASEYRHODES_MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/caseyweb-cmr/CASEYRHODES_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/CASEYRHODES_MD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="KermHack Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+        <a href = ""><img alt="caseywebhack Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Kgtech-cmr/KERM_MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/caseyweb/CASEYRHODES_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
