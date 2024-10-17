@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+PRINCE+MD+💙)
+![CASEYRHODES-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -7,7 +7,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="CASEYRHODES" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
   </a>
 </p>
 
@@ -25,9 +25,9 @@
 </p>
 
 
- <h1 align="center">💠𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻💠</h1>
+ <h1 align="center">💠𝗖𝗔𝗦𝗘𝗬𝗥𝗛𝗢𝗗𝗘𝗦-𝗠𝗗-𝗕𝗢𝗧💠</h1>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
@@ -40,35 +40,7 @@
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
 <p align="left">
 <a href="https://apparent-meta-secktor-07ceb9dc.koyeb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
-<p/>
 
-
-https://i.imgur.com/LyHic3i.gif'/></a>
-
-### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
-   <p align="left">
-      <a href="https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-     <p/>
-       
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/PRINCE-GDS/PRINXE-MD/blob/main/LICENSE)
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝙊𝙏`]
-#### 🌐 Arabic = ar 
-#### 🌐 Urdu = ur
-#### 🌐 English Global = en
-#### 🌐 Bahasa Indonesia = id
-#### 🌐 Portuguese = pt
-#### 🌐 Spanish = es
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
