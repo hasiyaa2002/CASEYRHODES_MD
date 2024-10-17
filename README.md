@@ -2,12 +2,12 @@
 ![CASEYRHODES-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+CASEYRHODES+MD+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
  
  <p align="center">  
   <a href="">
-    <img alt="CASEYRHODES" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="CASEYRHODES" width="600" height="350" src="https://i.imgur.com/c4xb6y7.jpeg">
   </a>
 </p>
 
