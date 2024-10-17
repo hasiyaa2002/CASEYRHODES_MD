@@ -58,6 +58,5 @@
    <br>
    
 2. Now Deploy
-3.
     <br>
 <a href='https://heroku.com/deploy?template=https://github.com/caseyweb/CASEYRHODES_MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
