@@ -14,14 +14,14 @@
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐁𝐎𝐓-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE--MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINCE-MD-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE--MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-MD?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE--MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXE--MD?label=Watching&style=social"></a>
+<a href="https://github.com/caseyweb?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/caseyweb?label=Followers&style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/CASEYRHODES_MD?&style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/caseyweb/CASEYRHODES_MD?style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/CASEYRHODES_MD?label=Watching&style=social"></a>
 </p>
 
 
