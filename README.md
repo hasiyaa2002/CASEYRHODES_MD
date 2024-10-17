@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://i.imgur.com/5ZtBieN.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+CASEYRHODES-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYRHODES+AND+CHARITY;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+CASEYRHODES-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYRHODES+AND+CHARITY;RELEASED+DATE+07%2F17%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 
 
