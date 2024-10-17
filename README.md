@@ -69,7 +69,7 @@
 <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" /><br>
 <a href="https://t.me/Caseyrhodes001"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/_______caseyrhodes001?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/Caseyrhodes01?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 
