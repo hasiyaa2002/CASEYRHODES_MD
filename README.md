@@ -7,7 +7,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="CASEYRHODES" width="600" height="350" src="https://i.imgur.com/c4xb6y7.jpeg">
+    <img alt="CASEYRHODES" width="600" height="350" src="https://i.imgur.com/5ZtBieN.jpeg">
   </a>
 </p>
 
